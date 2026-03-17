@@ -13,3 +13,9 @@ Data Ingestion & Exploratory Data Analysis
 - Movie popularity bias analysis
 - User-item interaction matrix (CSR sparse)
 - Cold-start user detection
+## Task 2: Matrix Factorization (FunkSVD)
+- Implemented latent factor model using PyTorch
+- User and item embeddings
+- Bias terms for users and items
+- Mini-batch training with Adam optimizer
+- RMSE evaluation
