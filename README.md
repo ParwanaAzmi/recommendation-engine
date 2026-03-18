@@ -19,3 +19,10 @@ Data Ingestion & Exploratory Data Analysis
 - Bias terms for users and items
 - Mini-batch training with Adam optimizer
 - RMSE evaluation
+## Task 3: Neural Collaborative Filtering (Two-Tower Model)
+- Implemented Two-Tower architecture
+- Separate user and item embedding networks
+- Bayesian Personalized Ranking (BPR) loss
+- Negative sampling strategy
+- Optimized using Adam
+- Scalable architecture for production systems
