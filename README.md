@@ -37,3 +37,11 @@ Data Ingestion & Exploratory Data Analysis
 - Built FAISS index for fast similarity search
 - Achieved sub-millisecond nearest neighbor retrieval
 - Implemented content-based recommendation function
+
+  ## Task 5: Hybrid Recommendation & Re-ranking
+- Combined Collaborative Filtering, Content-Based, and Popularity signals
+- Applied weighted hybrid scoring (0.5, 0.3, 0.2)
+- Implemented diversity-aware re-ranking using genre penalties
+- Improved recommendation variety
+- Evaluated system using novelty metric
+
