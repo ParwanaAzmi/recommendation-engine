@@ -45,3 +45,15 @@ Data Ingestion & Exploratory Data Analysis
 - Improved recommendation variety
 - Evaluated system using novelty metric
 
+  ## Task 6: Production Deployment (FastAPI + Redis)
+- Built REST API using FastAPI
+- Implemented Redis caching for low-latency inference
+- Achieved simulated <10ms response time for cached results
+- Added endpoints:
+  - /recommend/{user_id}
+  - /similar/{item_id}
+  - /trending
+  - /health
+- Simulated production traffic using TestClient
+
+
