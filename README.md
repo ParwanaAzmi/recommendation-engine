@@ -56,4 +56,13 @@ Data Ingestion & Exploratory Data Analysis
   - /health
 - Simulated production traffic using TestClient
 
+  ## Task 7: A/B Testing & Model Evaluation
+- Compared SVD, Neural CF, and Hybrid models
+- Evaluated using CTR and WTR metrics
+- Visualized results using Matplotlib
+- Implemented automatic winner selection
+- Hybrid model showed highest engagement
+- Simulated production rollout decision
+
+
 
